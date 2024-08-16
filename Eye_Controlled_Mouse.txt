@@ -1,0 +1,8 @@
+# pip install opencv-contrib-python = Computer vision software
+# pip install mediapipe             = Detects eye movements
+#pip install pyautogui              = Auto GUI interface for python (Easy to use)
+
+#------------------------------------------------------------------------------------------
+#Step 1 = Openingh webcam and seeing our face
+
+
